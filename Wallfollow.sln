@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Wallfollow", "Wallfollow.vcxproj", "{DE008543-7867-4DB5-ACAC-F1700C08C8DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE008543-7867-4DB5-ACAC-F1700C08C8DC}.Debug|x64.ActiveCfg = Debug|x64
+		{DE008543-7867-4DB5-ACAC-F1700C08C8DC}.Debug|x64.Build.0 = Debug|x64
+		{DE008543-7867-4DB5-ACAC-F1700C08C8DC}.Debug|x86.ActiveCfg = Debug|Win32
+		{DE008543-7867-4DB5-ACAC-F1700C08C8DC}.Debug|x86.Build.0 = Debug|Win32
+		{DE008543-7867-4DB5-ACAC-F1700C08C8DC}.Release|x64.ActiveCfg = Release|x64
+		{DE008543-7867-4DB5-ACAC-F1700C08C8DC}.Release|x64.Build.0 = Release|x64
+		{DE008543-7867-4DB5-ACAC-F1700C08C8DC}.Release|x86.ActiveCfg = Release|Win32
+		{DE008543-7867-4DB5-ACAC-F1700C08C8DC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB4C06F9-3E34-445B-9B0A-5D71C16A84A2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Program Files (x86)\REC GmbH\robotino\api2\include\rec\robotino\api2\CameraFormat.h(117,1): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(338): message : voir la déclaration de 'strncpy'
+C:\Program Files (x86)\REC GmbH\robotino\api2\include\rec\robotino\api2\CameraCapabilities.h(151,1): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(338): message : voir la déclaration de 'strncpy'
+C:\Program Files (x86)\REC GmbH\robotino\api2\include\rec\robotino\api2\LaserRangeFinderReadings.h(152,1): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(338): message : voir la déclaration de 'strncpy'
+  Wallfollow.vcxproj -> C:\Program Files (x86)\REC GmbH\robotino\api2\examples\c++\wallfollow\Debug\Wallfollow.exe
