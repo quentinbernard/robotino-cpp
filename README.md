@@ -5,7 +5,7 @@ Répertoires VC++/Repertoires include
 Ajouter :
 C:\Program Files (x86)\REC GmbH\robotino\api2\include\;$(IncludePath)
 
-Répertoires VC++/Repertoires include 
+Répertoires VC++/Repertoires de bibliothèques 
 Ajouter :
 C:\Program Files (x86)\REC GmbH\robotino\api2\bin;$(LibraryPath)
 
